@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22D3EE&height=180&section=header&text=Hi%2C%20I'm%20superwhys%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Keep%20building.%20Keep%20learning.&descSize=17&descAlignY=58" alt="Header" />
 
-<img src="https://avatars.githubusercontent.com/u/110273728?v=4" width="128" alt="superwhys avatar" />
+<img src="https://avatars.githubusercontent.com/superwhys" width="128" alt="superwhys avatar" />
 
 ### Developer · Open-source enthusiast · Lifelong learner
 
@@ -60,10 +60,10 @@ var superwhys = struct {
 
 <div align="center">
   <a href="https://github.com/superwhys">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=superwhys&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="superwhys GitHub stats" />
+    <img height="170" src="./assets/github-stats.svg" alt="superwhys GitHub stats" />
   </a>
   <a href="https://github.com/superwhys?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superwhys&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
+    <img height="170" src="./assets/top-languages.svg" alt="Most used languages" />
   </a>
 </div>
 

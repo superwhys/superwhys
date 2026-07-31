@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" role="img" aria-label="superwhys&apos;s GitHub statistics">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#70a5fd" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="168" rx="10" fill="#1a1b27" stroke="url(#border)" stroke-opacity=".45" />
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .title { fill: #70a5fd; font-size: 18px; font-weight: 700; }
+    .label { fill: #a9b1d6; font-size: 13px; }
+    .value { fill: #f8fafc; font-size: 20px; font-weight: 700; }
+  </style>
+  <text x="24" y="36" class="title">superwhys's GitHub stats</text>
+  <text x="28" y="64" class="label">Public repositories</text>
+  <text x="28" y="87" class="value">43</text>
+  <text x="224" y="64" class="label">Total stars</text>
+  <text x="224" y="87" class="value">3</text>
+  <text x="28" y="119" class="label">Followers</text>
+  <text x="28" y="142" class="value">1</text>
+  <text x="224" y="119" class="label">Total forks</text>
+  <text x="224" y="142" class="value">0</text>
+</svg>
