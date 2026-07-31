@@ -60,10 +60,10 @@ var superwhys = struct {
 
 <div align="center">
   <a href="https://github.com/superwhys">
-    <img height="170" src="./assets/github-stats.svg" alt="superwhys GitHub stats" />
+    <img width="49%" src="./assets/github-stats.svg" alt="superwhys GitHub stats" />
   </a>
   <a href="https://github.com/superwhys?tab=repositories">
-    <img height="170" src="./assets/top-languages.svg" alt="Most used languages" />
+    <img width="49%" src="./assets/top-languages.svg" alt="Most used languages" />
   </a>
 </div>
 
