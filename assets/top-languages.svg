@@ -14,11 +14,11 @@
   </style>
   <text x="24" y="36" class="title">Most used languages</text>
   <clipPath id="bar"><rect x="24" y="54" width="372" height="8" rx="4" /></clipPath>
-  <g clip-path="url(#bar)"><rect x="24" y="54" width="156.69633635547692" height="8" fill="#41B883" />
-  <rect x="180.69633635547692" y="54" width="125.68706180001821" height="8" fill="#00ADD8" />
-  <rect x="306.3833981554951" y="54" width="50.487050743395294" height="8" fill="#3178C6" />
-  <rect x="356.8704488988904" y="54" width="22.39895872627704" height="8" fill="#E34C26" />
-  <rect x="379.26940762516745" y="54" width="16.730592374832526" height="8" fill="#563D7C" /></g>
+  <g clip-path="url(#bar)"><rect x="24" y="54" width="156.72060570457433" height="8" fill="#41B883" />
+  <rect x="180.72060570457433" y="54" width="125.67289416753015" height="8" fill="#00ADD8" />
+  <rect x="306.3934998721045" y="54" width="50.481359767967156" height="8" fill="#3178C6" />
+  <rect x="356.87485964007163" y="54" width="22.39643388234478" height="8" fill="#E34C26" />
+  <rect x="379.2712935224164" y="54" width="16.728706477583597" height="8" fill="#563D7C" /></g>
   <circle cx="28" cy="87" r="5" fill="#41B883" />
   <text x="40" y="91" class="label">Vue  42.1%</text>
   <circle cx="224" cy="87" r="5" fill="#00ADD8" />
