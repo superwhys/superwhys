@@ -14,19 +14,19 @@
   </style>
   <text x="24" y="36" class="title">Most used languages</text>
   <clipPath id="bar"><rect x="24" y="54" width="372" height="8" rx="4" /></clipPath>
-  <g clip-path="url(#bar)"><rect x="24" y="54" width="148.06932122620105" height="8" fill="#00ADD8" />
-  <rect x="172.06932122620105" y="54" width="140.10473729709088" height="8" fill="#41B883" />
-  <rect x="312.17405852329193" y="54" width="46.22989030569388" height="8" fill="#3178C6" />
-  <rect x="358.4039488289858" y="54" width="19.491133420443283" height="8" fill="#563D7C" />
-  <rect x="377.8950822494291" y="54" width="18.10491775057091" height="8" fill="#E34C26" /></g>
+  <g clip-path="url(#bar)"><rect x="24" y="54" width="144.93478868389667" height="8" fill="#00ADD8" />
+  <rect x="168.93478868389667" y="54" width="133.36109128835702" height="8" fill="#41B883" />
+  <rect x="302.2958799722537" y="54" width="57.92116255046485" height="8" fill="#3178C6" />
+  <rect x="360.21704252271854" y="54" width="18.551161003458308" height="8" fill="#563D7C" />
+  <rect x="378.7682035261769" y="54" width="17.231796473823152" height="8" fill="#E34C26" /></g>
   <circle cx="28" cy="87" r="5" fill="#00ADD8" />
-  <text x="40" y="91" class="label">Go  39.8%</text>
+  <text x="40" y="91" class="label">Go  39.0%</text>
   <circle cx="224" cy="87" r="5" fill="#41B883" />
-  <text x="236" y="91" class="label">Vue  37.7%</text>
+  <text x="236" y="91" class="label">Vue  35.8%</text>
   <circle cx="28" cy="117" r="5" fill="#3178C6" />
-  <text x="40" y="121" class="label">TypeScript  12.4%</text>
+  <text x="40" y="121" class="label">TypeScript  15.6%</text>
   <circle cx="224" cy="117" r="5" fill="#563D7C" />
-  <text x="236" y="121" class="label">CSS  5.2%</text>
+  <text x="236" y="121" class="label">CSS  5.0%</text>
   <circle cx="28" cy="147" r="5" fill="#E34C26" />
-  <text x="40" y="151" class="label">HTML  4.9%</text>
+  <text x="40" y="151" class="label">HTML  4.6%</text>
 </svg>
