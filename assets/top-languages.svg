@@ -14,19 +14,19 @@
   </style>
   <text x="24" y="36" class="title">Most used languages</text>
   <clipPath id="bar"><rect x="24" y="54" width="372" height="8" rx="4" /></clipPath>
-  <g clip-path="url(#bar)"><rect x="24" y="54" width="134.4397001695827" height="8" fill="#00ADD8" />
-  <rect x="158.4397001695827" y="54" width="132.81668241598913" height="8" fill="#41B883" />
-  <rect x="291.2563825855718" y="54" width="76.02516447040087" height="8" fill="#3178C6" />
-  <rect x="367.2815470559727" y="54" width="14.79225170241145" height="8" fill="#563D7C" />
-  <rect x="382.07379875838416" y="54" width="13.926201241615855" height="8" fill="#E34C26" /></g>
-  <circle cx="28" cy="87" r="5" fill="#00ADD8" />
-  <text x="40" y="91" class="label">Go  36.1%</text>
-  <circle cx="224" cy="87" r="5" fill="#41B883" />
-  <text x="236" y="91" class="label">Vue  35.7%</text>
+  <g clip-path="url(#bar)"><rect x="24" y="54" width="134.34606279716436" height="8" fill="#41B883" />
+  <rect x="158.34606279716436" y="54" width="130.84724692384216" height="8" fill="#00ADD8" />
+  <rect x="289.19330972100653" y="54" width="78.55724144281733" height="8" fill="#3178C6" />
+  <rect x="367.75055116382384" y="54" width="14.693070936412765" height="8" fill="#563D7C" />
+  <rect x="382.4436221002366" y="54" width="13.556377899763369" height="8" fill="#E34C26" /></g>
+  <circle cx="28" cy="87" r="5" fill="#41B883" />
+  <text x="40" y="91" class="label">Vue  36.1%</text>
+  <circle cx="224" cy="87" r="5" fill="#00ADD8" />
+  <text x="236" y="91" class="label">Go  35.2%</text>
   <circle cx="28" cy="117" r="5" fill="#3178C6" />
-  <text x="40" y="121" class="label">TypeScript  20.4%</text>
+  <text x="40" y="121" class="label">TypeScript  21.1%</text>
   <circle cx="224" cy="117" r="5" fill="#563D7C" />
-  <text x="236" y="121" class="label">CSS  4.0%</text>
+  <text x="236" y="121" class="label">CSS  3.9%</text>
   <circle cx="28" cy="147" r="5" fill="#E34C26" />
-  <text x="40" y="151" class="label">HTML  3.7%</text>
+  <text x="40" y="151" class="label">HTML  3.6%</text>
 </svg>
